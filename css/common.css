@@ -94,7 +94,7 @@ body {
 }
 
 
-/* task-2 styles */
+/* task-3 styles */
 input#name-input {
   width: 100%;
   border: 1px solid #808080;
@@ -125,3 +125,6 @@ h1 {
   color: #2e2f42;
   display: inline-block;
 }
+
+
+/* task-4 styles */
