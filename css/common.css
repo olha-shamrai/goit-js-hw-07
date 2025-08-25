@@ -92,3 +92,36 @@ body {
   object-fit: cover;
   border-radius: 4px;
 }
+
+
+/* task-2 styles */
+input#name-input {
+  width: 100%;
+  border: 1px solid #808080;
+  border-radius: 4px;
+  width: 360px;
+  height: 40px;
+  padding: 8px 16px;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.04em;
+  color: #2e2f42;
+  outline: none;
+  display: block;
+  margin-bottom: 16px;
+  transition: border 0.3s ease;
+}
+
+input#name-input:focus {
+  border: 1px solid #000;
+}
+
+h1 {
+  font-size: 24px;
+  font-weight: 600;
+  color: #2e2f42;
+  line-height: 133%;
+  letter-spacing: 0.04em;
+  color: #2e2f42;
+  display: inline-block;
+}
